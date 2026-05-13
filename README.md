@@ -50,3 +50,25 @@
 
 ![Image](https://images.openai.com/static-rsc-4/JVpqwj-vAlLalTuSJK47rCuRqvYGav-o609e6tXo1b4bGAtGCs9Xr2DeJfC0MoOyAFCF-gj5q_Fyxi8ojo3pxLkqdURRiBRcQQOSWF6ayyCFOQiKuyxnRr3d5cr6DQoyBg0K_fqo_UkdiQHOy2LWwMSzfKRHap7-gCRXgG3PVF9LWaHBFre-EQ4pz6csXJR4?purpose=fullsize)
 
+import serial
+import numpy as np
+import matplotlib.pyplot as plt
+
+ser = serial.Serial('COM5',115200)
+
+plt.ion()
+
+while True:
+
+    line = ser.readline().decode().strip()
+    data = line.split(',')
+
+    if len(data) >= 768:
+
+        temp = np.array(data[:768],dtype=float)
+        temp = temp.reshape((24,32))
+
+        plt.clf()
+        plt.imshow(temp,cmap='hot')
+        plt.colorbar()
+        plt.pause(0.01)
