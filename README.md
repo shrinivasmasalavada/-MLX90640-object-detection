@@ -72,3 +72,4 @@ while True:
         plt.imshow(temp,cmap='hot')
         plt.colorbar()
         plt.pause(0.01)
+  //////////////////////////////////////                 vs code              //////////////////////////
