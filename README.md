@@ -1,2 +1,21 @@
-# -MLX90640-object-detection
-Advanced Level
+
+
+## Future Project Ideas
+
+![Image](https://images.openai.com/static-rsc-4/3gLImj2BOmdfPm1fr5tyBch1g4CMdJ01dYIU400zIFtU-kM2Q3rxg-68TYsak8CzR-lx8Tx-kg7kqkrHIDUvqK7MKN9s0KM4ndk5YmxDxmCqCr1bPfXC_EtKSMXPjubvXbbsjGwGLeoa9YZ5LO1pKNaTA2k3Gcz8UJSuoBzqeIN2oSyBqNR1UEB8XJUd6Yc7?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/1gaJsds8T3eoHVfKR40MAPUfPs87qe4zUgmNij0clz82FMurFM-lqbRfNsE2jgdGiUdH5R0SDxesa76JQK4AUE69Ba4aWS1twW0aM0u3tltJdUXB2SGOy6TTc_3pGehR9kwoIed0CxPRnjjZ6b5M8o5dhf1yCsiQi8DVbNwo5SnGnpIrun25OhaCGnVtK_PY?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/tkuuy4b87JnAVfkp1fVXtwT1IGw8EybZ6beIsV4g63Gn9U-pEx4tnUWHmzDc6qntcRpmMvvU8RAGivM14fCQSVh4sMLiNlIAZrk0g8xHi-0z1Z--5eIhPpmKDLxCyQmB0Gtzd3RVcMiSqVQr8KI2QyYPGu1qkcFF5hUh2bJVbp4pQog0PUjZ8XKQuDYA1Kkf?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/R1cLWyu5FhFkvcz1sb3UYuzZo-p2BXUKjCcboN0id-jJ99D4FQhksXxjeZBJlPUXvEEfjOcFF5kl6w1j5WmOvucNg1he-b379JvK6oo4GxabtZID9Sqg3xcT8VZoZNQyoK3JOsO9pbrEjVws-maeZkIh1-XBWd6R_-8ffTyaxQzEpw6Nk-gHe61R7lAMy5KK?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/4MMX-hTfnEGv6q8HXR4znQsai6XcN0-ikfvuXNq-nt0e3mww6g6HzLI6M2U1OIfZ1CAuMWnlySeuuDaym-Rt5xg6zyQynC6Z6992a8onqhZDOnUEI8UMgNKcQDBbGV3ii73mqyY2YFB6FbmZDazOaGGxiCfpGJZ4NEN0K3GQRnzYI5NbEx6qYw8tRibkGI0c?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/bTM3YwVnJSOKrJtPGJ5WV0A97xYAv533WkArnMOTHBb5PN7bhSGAs9sbpNT5TQTNzPBpwa7Onawqz0IMcUNNM8I4VtIeCu1mSADvPFDCmFV1nW-85bEMMKfTob01O0hDpD-BrER0UFQTb9oXTKDqW7WtoCzcmTdJeSK5WhgM4mPvHGp8beCiCoHtOEa0zbwN?purpose=fullsize)
+
+* Defence thermal surveillance
+* Night rescue robot
+* Fire alert system
+* Smart security camera
+* Animal monitoring system 
