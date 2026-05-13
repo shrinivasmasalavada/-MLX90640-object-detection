@@ -33,8 +33,20 @@
 
 ![Image](https://images.openai.com/static-rsc-4/bTM3YwVnJSOKrJtPGJ5WV0A97xYAv533WkArnMOTHBb5PN7bhSGAs9sbpNT5TQTNzPBpwa7Onawqz0IMcUNNM8I4VtIeCu1mSADvPFDCmFV1nW-85bEMMKfTob01O0hDpD-BrER0UFQTb9oXTKDqW7WtoCzcmTdJeSK5WhgM4mPvHGp8beCiCoHtOEa0zbwN?purpose=fullsize)
 
-* Defence thermal surveillance
-* Night rescue robot
-* Fire alert system
-* Smart security camera
-* Animal monitoring system 
+
+---
+
+# Expected Result
+
+![Image](https://images.openai.com/static-rsc-4/oT6aI2Bw9WrD5CxATvTPsjokxX8n8rfEdYxYGH6PtSM6fFGZ141W_ltUCw1w-abtMj4NqNFf5EzEpdtPtd8Erz184TmJ71tMPPfeDfHrFkgc0I36DF9r7pwqwstJTA9hWBubqX7lPI2ZUL8HTnnT5kF_SDZEn9SBlp0haWYhj5gszWOPUTa0wq8yZSCRJtwp?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/UeTET-DfmhIBbo-xivAYIVmabqbDwUeNZMZzT_vp9oWsqRFZatu7tdkuaFH7zJrfCHwQW7kAHpj0QI1KzEZGDpjXZAkVjSNeHRfIQGWjn5x6gAQFCBzYW5BLgkum4OM1AhGZijbPGP38Nj5K1-VIjIPWCIQV_MHO1esUTR2J1WBsO-NEpdHmDRozJECPEGyQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/mbA3TGNokhtS83guptwgyB8btwpayIpozA0ekXNzYVKar_75KRKRTlIjzuutgZuWCduVGlnx8RAaNZvf6QWqIBEvc3bdfjXuTBK2XTYDoDJiC3aBRhlSYbfLN-6N4WU4uMS_1ux_E7EEK_QXLpkdQoqfDqT4vjJ_VsGA7xamcDYpKmaZ5H1R9aZ90oJZof7U?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/q6XQ7iop61p3aDmcX_7lR2jj0LB8TQpWX8k7p1dp5GmdoGw7_SXuYp3i03Y3yU5NR-8ppgv5H6BMROuJouhQmjpUsBDTsP3Eq7FBxv8FJUadxjMturV-8B62FKsnBBZAib_2kJtikUc0vCjgCqFmqXADckSRAqfay2kr78TfZ1tiX0oGS21K2E4IrQpdpTB8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/dikICrI6wPt69EnQIqREtdpzcAAHgSAjKQh1xF4gqrZJfl830Zx1LkdMLwpe4tX0f0rJNfPtZGdAg_anOCg9AMQyLWZFIRvFPFbhLyWpT1NP-xgH8VHcmj41r7itPBkODT3Hza9EPzxkIQKi4TZuYFrJx9bmVddDjMzTfTxSkIqDqxMDTqRq9tpINU0L63-O?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/JVpqwj-vAlLalTuSJK47rCuRqvYGav-o609e6tXo1b4bGAtGCs9Xr2DeJfC0MoOyAFCF-gj5q_Fyxi8ojo3pxLkqdURRiBRcQQOSWF6ayyCFOQiKuyxnRr3d5cr6DQoyBg0K_fqo_UkdiQHOy2LWwMSzfKRHap7-gCRXgG3PVF9LWaHBFre-EQ4pz6csXJR4?purpose=fullsize)
+
